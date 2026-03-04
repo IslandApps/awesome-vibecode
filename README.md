@@ -2,6 +2,8 @@
 
 > A curated collection of APIs, assets, and tools for the vibe coding era. Build with soul, stay in the flow.
 
+**🚀 Status:** This is a living manifest. New high-velocity tools, hidden-gem APIs, and "vibe-approved" resources are added regularly. 
+
 ---
 
 ### 📍 Quick Navigation
