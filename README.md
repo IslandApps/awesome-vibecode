@@ -5,20 +5,20 @@
 ---
 
 ### 📍 Quick Navigation
-* [🏗️ **App Builders**](#-app-builders) — *One-shot platforms to go from prompt to production.*
-* [🔊 **Audio**](#-audio) — *Atmospheric tracks and programmatic soundscapes.*
-* [⌨️ **CLI Agents**](#-cli-agents) — *High-autonomy terminal agents that run, test, and ship.*
-* [🗄️ **Databases**](#-databases) — *Serverless storage that scales with your intent.*
-* [🚀 **Deployment**](#-deployment) — *Where your ideas live and breathe on the global web.*
-* [🛠️ **Editors**](#-editors) — *The primary canvases where your ideas take shape.*
-* [🔌 **Extensions**](#-extensions) — *Force-multipliers and agents that live inside your IDE.*
-* [🚀 **Generative Engines**](#-generative-engines) — *Cloud-based workshops for rapid creation.*
-* [🏠 **Infrastructure**](#-infrastructure) — *The foundational floor that everything else stands on.*
-* [📖 **Learning & Guides**](#-learning--guides) — *Mastering the art of agentic orchestration.*
-* [💻 **Local AI**](#-local-ai) — *Privacy-first intelligence on your hardware.*
-* [🧠 **Models**](#-models) — *The frontier "brains" powering the movement.*
-* [🧩 **Playgrounds**](#-playgrounds) — *Instant sandboxes for sketches and experiments.*
-* [🎨 **UI & Visuals**](#-ui--visuals) — *Aesthetic components and high-motion assets.*
+* [![App Builders](https://img.shields.io/badge/🏗️--App--Builders-Visit-blue)](#-app-builders) — *One-shot platforms to go from prompt to production.*
+* [![Audio](https://img.shields.io/badge/🔊--Audio-Atmospheric-yellow)](#-audio) — *Atmospheric tracks and programmatic soundscapes.*
+* [![CLI Agents](https://img.shields.io/badge/⌨️--CLI--Agents-Autonomy-black)](#-cli-agents) — *High-autonomy terminal agents that run, test, and ship.*
+* [![Databases](https://img.shields.io/badge/🗄️--Databases-Serverless-00e599)](#-databases) — *Serverless storage that scales with your intent.*
+* [![Deployment](https://img.shields.io/badge/🚀--Deployment-Global-black)](#-deployment) — *Where your ideas live and breathe on the global web.*
+* [![Editors](https://img.shields.io/badge/🛠️--Editors-Canvases-007acc)](#-editors) — *The primary canvases where your ideas take shape.*
+* [![Extensions](https://img.shields.io/badge/🔌--Extensions-IDE--Agents-green)](#-extensions) — *Force-multipliers and agents that live inside your IDE.*
+* [![Generative Engines](https://img.shields.io/badge/🚀--Generative--Engines-Creation-4285f4)](#-generative-engines) — *Cloud-based workshops for rapid creation.*
+* [![Infrastructure](https://img.shields.io/badge/🏠--Infrastructure-Foundational-f05032)](#-infrastructure) — *The foundational floor that everything else stands on.*
+* [![Learning](https://img.shields.io/badge/📖--Learning--&--Guides-Mastery-grey)](#-learning--guides) — *Mastering the art of agentic orchestration.*
+* [![Local AI](https://img.shields.io/badge/💻--Local--AI-Private-6b4fbb)](#-local-ai) — *Privacy-first intelligence on your hardware.*
+* [![Models](https://img.shields.io/badge/🧠--Models-Frontier-d97757)](#-models) — *The frontier "brains" powering the movement.*
+* [![Playgrounds](https://img.shields.io/badge/🧩--Playgrounds-Sandboxes-green)](#-playgrounds) — *Instant sandboxes for sketches and experiments.*
+* [![Visuals](https://img.shields.io/badge/🎨--UI--&--Visuals-Aesthetic-61dafb)](#-ui--visuals) — *Aesthetic components and high-motion assets.*
 
 ---
 
@@ -62,7 +62,7 @@
 > **Where your ideas live and breathe on the global web.**
 
 * [![Netlify](https://img.shields.io/badge/Netlify-Jamstack-00c7b7)](https://www.netlify.com/) — The "vibe-approved" host for many app builders. Features a generous free tier.
-* [![Railway](https://img.shields.io/badge/Railway-Fullstack-0b0d0e)](https://railway.app/) — The best choice for Docker and long-running processes (like custom bots).
+* [![Railway](https://img.shields.io/badge/Railway-Fullstack-0b0d0e)](https://railway.app/) — The best choice for Docker and long-running processes.
 * [![Vercel](https://img.shields.io/badge/Vercel-Frontend-black)](https://vercel.com/) — The king of Next.js performance. Its AI SDK is optimized for low-latency streaming.
 
 ---
@@ -71,7 +71,7 @@
 > **The primary canvases where your ideas take shape.**
 
 * [![Antigravity IDE](https://img.shields.io/badge/Antigravity-Agent--First-blue)](https://antigravity.google) — Google's agent-first development platform built on VS Code.
-* [![Cursor](https://img.shields.io/badge/Cursor-AI--Native-007acc)](https://cursor.com/) — The pioneer of the AI-native editor movement. Features **Composer** for multi-file generation and **Tab** for predictive, context-aware code completions that go far beyond standard LSP.
+* [![Cursor](https://img.shields.io/badge/Cursor-AI--Native-007acc)](https://cursor.com/) — The pioneer of AI-native editing. Features **Composer** and **Tab** for deep context awareness.
 * [![Trae](https://img.shields.io/badge/Trae-Solo--Mode-9b59b6)](https://www.trae.ai/) — ByteDance’s vibe-native IDE fork of VS Code.
 * [![VS Code](https://img.shields.io/badge/VS%20Code-Standard-007acc)](https://code.visualstudio.com/) — The extensible foundation of the modern dev stack.
 * [![VSCodium](https://img.shields.io/badge/VSCodium-Private-brightgreen)](https://vscodium.com/) — The telemetry-free, community-driven binary distribution of VS Code.
