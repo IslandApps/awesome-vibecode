@@ -8,8 +8,8 @@
 
 ### 📍 Quick Navigation
 * [🔊 Audio](#-audio)
-* [🤖 Coding Agents](#-coding-agents)
 * [🛠️ Editors](#-editors)
+* [🔌 Extensions](#-extensions)
 * [🚀 Generative Engines](#-generative-engines)
 * [🏠 Infrastructure](#-infrastructure)
 * [💻 Local AI](#-local-ai)
@@ -24,32 +24,40 @@
 
 ---
 
-## 🤖 Coding Agents
+## 🛠️ Editors
 
-* **[Codex (OpenAI)](https://openai.com/codex)** — A standalone macOS "command center" for multi-agent orchestration. Features built-in **Git worktree** support, allowing parallel agents to work on separate tasks simultaneously without merge conflicts.
+* **[Google Antigravity IDE](https://antigravity.google)** — An agent-first development platform built on VS Code. It moves beyond autocomplete into "Mission Control," allowing you to orchestrate autonomous agents that plan, code, and verify tasks across your editor and browser.
+* **[Trae](https://www.trae.ai/)** — ByteDance’s "vibe-native" IDE fork of VS Code. Features **"SOLO Mode"** for autonomous task execution and **"CUE"** for predictive, multi-line autocompletion.
+* **[Visual Studio Code](https://code.visualstudio.com/)** — The extensible foundation of the modern dev stack. Its massive ecosystem of extensions and AI forks makes it the essential canvas for vibe coding.
 
 ---
 
-## 🛠️ Editors
+## 🔌 Extensions
 
-* **[Google Antigravity IDE](https://antigravity.google)** — An agent-first development platform built on VS Code. Orchestrates autonomous agents that plan, code, and verify tasks across your editor and browser.
-* **[Trae](https://www.trae.ai/)** — ByteDance’s "vibe-native" IDE. Features **"SOLO Mode"** for autonomous task execution and **"CUE"** for predictive, multi-line autocompletion.
-* **[Visual Studio Code](https://code.visualstudio.com/)** — The extensible foundation of the modern dev stack. The essential canvas for vibe coding.
+* **[Augment Code](https://www.augmentcode.com/)** — A high-performance AI coding assistant built for massive codebases. Its **"Context Engine"** can process 400,000+ files with architectural awareness.
+* **[Cline](https://cline.bot/)** — The most adopted open-source coding agent extension for VS Code. It uses a **Plan/Act** system to execute multi-file edits, run terminal commands, and debug in real-time.
+* **[Codex (OpenAI)](https://openai.com/codex)** — A standalone macOS "command center" for multi-agent orchestration. Features built-in **Git worktree** support, allowing parallel agents to work on separate tasks simultaneously.
+* **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** — The essential "sanity check." In a vibe-coding workflow, it acts as the guardrail that catches agent hallucinations before they break your build.
+* **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** — An opinionated code formatter. Ensures that no matter which agent wrote the code, the entire project stays clean and "vibe-consistent."
+* **[Roo Code](https://github.com/RooCode/RooCode)** — A powerful, high-speed fork of Cline designed for maximum flexibility. It supports **Custom Modes**, allowing you to rewire how the agent thinks.
+* **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)** — The official extension for Tailwind. Provides instant autocomplete and linting, making it the fastest way to "vibe out" a UI with AI.
 
 ---
 
 ## 🚀 Generative Engines
 
-* **[Augment Code](https://www.augmentcode.com/)** — A high-performance AI coding assistant built for massive codebases. Its **Context Engine** processes 400,000+ files with architectural awareness.
-* **[Z.ai Chat](https://z.ai/)** — A powerful, **completely free** browser-based agent. Acts as a universal creation engine for full-stack web apps, responsive websites, and professional slide decks.
+* **[Firebase Studio](https://firebase.google.com/)** — The evolution of the backend. It allows you to build out entire database schemas, auth flows, and cloud functions via a natural language interface. Ideal for "zero-infra" vibe coding where you want the agent to handle the server.
+* **[Google AI Studio](https://aistudio.google.com/)** — The fastest way to experiment with the Gemini family. It offers a "Developer Sandbox" vibe where you can tune system prompts, test multimodal inputs (video/audio), and get API keys for your agents in seconds.
+* **[Kimi Chat](https://www.kimi.com/)** — Moonshot AI's flagship creation platform. Known for its world-class **Agent Swarm** capabilities, it can autonomously research, code, and visually debug complex web projects in the browser.
+* **[Z.ai Chat](https://z.ai/)** — A powerful, **completely free** browser-based agent. It acts as a universal creation engine—simply prompt it to build full-stack web apps, responsive websites, professional slide decks, or deep research reports.
 
 ---
 
 ## 🏠 Infrastructure
 
-* **[Git](https://git-scm.com/)** — The bedrock of version control. In the vibe coding era, Git is the safety net that allows agents to explore bold refactors while you keep a clean "revert" path just a click away.
-* **[Node.js](https://nodejs.org/)** — The engine that powers the modern web. Essential for running the vast majority of agentic CLI tools, dev servers, and heavy-duty automation scripts.
-* **[Python](https://www.python.org/)** — The native language of AI. Whether you're running local scripts to process data or building complex agentic backends, Python is the non-negotiable glue of the ecosystem.
+* **[Git](https://git-scm.com/)** — The bedrock of version control. The safety net that allows agents to explore bold refactors while you keep a clean "revert" path just a click away.
+* **[Node.js](https://nodejs.org/)** — The engine that powers the modern web. Essential for running the vast majority of agentic CLI tools, dev servers, and automation scripts.
+* **[Python](https://www.python.org/)** — The native language of AI. The non-negotiable glue for running local scripts and building complex agentic backends.
 
 ---
 
@@ -63,13 +71,14 @@
 
 * **[Claude (Anthropic)](https://www.anthropic.com/claude)** — The standard for "human-like" reasoning. Features the **Claude 4.5/4.6** series, optimized for long-form architectural planning.
 * **[Gemini (Google)](https://ai.google.dev/)** — The multimodal king. **Gemini 3 Pro** features a massive 2M+ context window, allowing you to "vibe" with an entire codebase at once.
-* **[GLM Coding Plan (z.ai)](https://z.ai/subscribe)** — **The "Budget King" of coding plans.** For as little as **$3/month**, you get high-performance GLM-5 usage that rivals Claude Sonnet with roughly 3x the usage limits of standard subscriptions.
+* **[GLM Coding Plan (z.ai)](https://z.ai/subscribe)** — **The "Budget King" of coding plans.** For as little as **$3/month**, you get high-performance GLM-5 usage with roughly 3x the usage limits of standard subscriptions.
+* **[Kimi (Moonshot AI)](https://www.kimi.com/)** — The specialist for **Agent Swarm** execution. Kimi K2.5 excels at visual coding and can autonomously inspect its own UI output to debug.
 * **[xAI (Grok)](https://x.ai/)** — Built for raw speed. **Grok 4.1 Fast** is priced aggressively ($0.20 per 1M tokens) for high-output projects and real-time data integration.
 
 ---
 
 ## 🎨 UI & Visuals
 
-* **[React Bits](https://reactbits.dev/)** — An open-source collection of 110+ animated, interactive, and highly creative React components (like *Hyperspeed* and *Ballpit*). Every component comes in 4 variants (JS/TS + CSS/Tailwind) and is designed to make UIs stand out. It’s highly "agent-friendly"—you can point tools like Cursor or Codex to it to instantly manifest complex animations.
+* **[React Bits](https://reactbits.dev/)** — An open-source collection of 110+ animated, interactive, and highly creative React components. Designed to make UIs stand out, and highly "agent-friendly."
 
 ---
