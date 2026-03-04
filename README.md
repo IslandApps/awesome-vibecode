@@ -7,7 +7,9 @@
 ### 📍 Quick Navigation
 * [🏗️ **App Builders**](#-app-builders) — *One-shot platforms to go from prompt to production.*
 * [🔊 **Audio**](#-audio) — *Atmospheric tracks and programmatic soundscapes.*
+* [⌨️ **CLI Agents**](#-cli-agents) — *High-autonomy terminal agents that run, test, and ship.*
 * [🗄️ **Databases**](#-databases) — *Serverless storage that scales with your intent.*
+* [🚀 **Deployment**](#-deployment) — *Where your ideas live and breathe on the global web.*
 * [🛠️ **Editors**](#-editors) — *The primary canvases where your ideas take shape.*
 * [🔌 **Extensions**](#-extensions) — *Force-multipliers and agents that live inside your IDE.*
 * [🚀 **Generative Engines**](#-generative-engines) — *Cloud-based workshops for rapid creation.*
@@ -37,12 +39,31 @@
 
 ---
 
+## ⌨️ CLI Agents
+> **High-autonomy terminal agents that run, test, and ship.**
+
+* [![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-d97757)](https://code.claude.com/) — Anthropic's official terminal agent. It understands your entire codebase and handles Git natively.
+* [![Codex CLI](https://img.shields.io/badge/Codex%20CLI-OpenAI-black)](https://openai.com/codex) — The terminal interface for OpenAI's multi-agent orchestrator. Excels at managing parallel tasks.
+* [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-Google-4285f4)](https://github.com/google-gemini/gemini-cli) — An agentic terminal assistant leveraging a 1M+ token context window.
+* [![Qwen Code](https://img.shields.io/badge/Qwen%20Code-Open--Source-orange)](https://github.com/QwenLM/qwen-code) — Optimized for Qwen3-Coder models. Supports high-speed local inference.
+
+---
+
 ## 🗄️ Databases
 > **Serverless storage that scales with your intent.**
 
-* [![Firebase](https://img.shields.io/badge/Firebase-Realtime-ffca28)](https://firebase.google.com/) — Google's comprehensive app platform. Offers NoSQL databases (Firestore), Auth, and Cloud Functions that sync in real-time.
+* [![Firebase](https://img.shields.io/badge/Firebase-Realtime-ffca28)](https://firebase.google.com/) — Google's comprehensive app platform. Offers NoSQL databases, Auth, and Cloud Functions.
 * [![Neon](https://img.shields.io/badge/Neon-Postgres-00e599)](https://neon.tech/) — Serverless Postgres with **Database Branching**, allowing you to branch data just like code.
 * [![Supabase](https://img.shields.io/badge/Supabase-Fullstack-3ecf8e)](https://supabase.com/) — The open-source Firebase alternative. Built on Postgres with an integrated AI-native SQL editor.
+
+---
+
+## 🚀 Deployment
+> **Where your ideas live and breathe on the global web.**
+
+* [![Netlify](https://img.shields.io/badge/Netlify-Jamstack-00c7b7)](https://www.netlify.com/) — The "vibe-approved" host for many app builders. Features a generous free tier.
+* [![Railway](https://img.shields.io/badge/Railway-Fullstack-0b0d0e)](https://railway.app/) — The best choice for Docker and long-running processes (like custom bots).
+* [![Vercel](https://img.shields.io/badge/Vercel-Frontend-black)](https://vercel.com/) — The king of Next.js performance. Its AI SDK is optimized for low-latency streaming.
 
 ---
 
@@ -59,7 +80,8 @@
 ## 🔌 Extensions
 > **Force-multipliers and agents that live inside your IDE.**
 
-* [![Augment Code](https://img.shields.io/badge/Augment-Context-blue)](https://www.augmentcode.com/) — AI coding assistant built for massive codebases (400k+ files).
+* [![Augment Code](https://img.shields.io/badge/Augment-Context-blue)](https://www.augmentcode.com/) — AI coding assistant built for massive codebases.
+* [![Awesome Screenshot](https://img.shields.io/badge/Awesome-Recorder-ff6b6b)](https://www.awesomescreenshot.com/) — Capture full-page scrolls to show your agent exactly what is broken.
 * [![Cline](https://img.shields.io/badge/Cline-Agent-green)](https://cline.bot/) — The most adopted open-source coding agent extension for VS Code.
 * [![Codex](https://img.shields.io/badge/Codex-Orchestrator-black)](https://openai.com/codex) — OpenAI's standalone "command center" for multi-agent orchestration.
 * [![ESLint](https://img.shields.io/badge/ESLint-Lint-4b32c3)](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) — Essential guardrail to catch agent hallucinations.
@@ -99,7 +121,7 @@
 ## 💻 Local AI
 > **Privacy-first intelligence running on your own hardware.**
 
-* [![LM Studio](https://img.shields.io/badge/LM--Studio-Local-6b4fbb)](https://lmstudio.ai/) — The gold standard for running local LLMs.
+* [![LM Studio](https://img.shields.io/badge/LM--Studio-Local-6b4fbb)](https://lmstudio.ai/) — The gold standard for running local LLMs with parallel inference.
 
 ---
 
@@ -110,7 +132,8 @@
 * [![Gemini](https://img.shields.io/badge/Gemini-2M--Context-4285f4)](https://ai.google.dev/) — Multimodal king with a massive context window.
 * [![GLM](https://img.shields.io/badge/GLM-Budget-blue)](https://z.ai/subscribe) — High-performance usage for only $3/month.
 * [![Kimi](https://img.shields.io/badge/Kimi-Visual-teal)](https://www.kimi.com/) — Specialist for Agent Swarm and visual debugging.
-* [![xAI](https://img.shields.io/badge/xAI-Speed-white)](https://x.ai/) — Built for raw speed and aggressive pricing.
+* [![Qwen](https://img.shields.io/badge/Qwen-Open--Weights-orange)](https://github.com/QwenLM/Qwen) — The global leader in open-weights reasoning. Qwen2.5/Qwen3-Coder models often outperform proprietary giants in coding benchmarks while remaining fully steerable for local agents.
+* [![xAI](https://img.shields.io/badge/xAI-Speed-white)](https://x.ai/) — Built for raw speed and aggressive pricing ($0.20 per 1M tokens).
 
 ---
 
@@ -128,5 +151,3 @@
 > **Aesthetic components and high-motion design assets.**
 
 * [![React Bits](https://img.shields.io/badge/ReactBits-Animated-61dafb)](https://reactbits.dev/) — Collection of interactive and agent-friendly components.
-
----
