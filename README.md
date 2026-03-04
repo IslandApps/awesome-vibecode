@@ -92,6 +92,7 @@
 * [![Prettier](https://img.shields.io/badge/Prettier-Format-f7b93e)](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) — An opinionated code formatter. Ensures that project styling stays consistent across different agents.
 * [![Roo Code](https://img.shields.io/badge/RooCode-Custom-red)](https://github.com/RooCode/RooCode) — High-speed fork of Cline designed for maximum flexibility. Supports Custom Modes.
 * [![Tailwind CSS](https://img.shields.io/badge/Tailwind-IntelliSense-38bdf8)](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) — Official extension for rapid UI manifestation with instant autocomplete.
+* [![Xline](https://img.shields.io/badge/Xline-Free%20Code%20Agent%20Lab-green)](https://marketplace.visualstudio.com/items?itemName=freeeAS.Xline) — Freee Code Agent Lab extension for VS Code.
 
 ---
 
