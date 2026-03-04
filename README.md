@@ -7,15 +7,10 @@
 ---
 
 ### 📍 Quick Navigation
-* [🧠 AI & Models](#-ai--models)
 * [🔊 Audio](#-audio)
 * [🛠️ Editors](#-editors)
-
----
-
-## 🧠 AI & Models
-
-* **[GLM Coding Plan (z.ai)](https://z.ai/subscribe)** — **The "Budget King" of coding plans.** For as little as **$3/month**, you get a high-performance GLM-5 model that rivals Claude 3.5/4.5 Sonnet. It offers roughly **3x the usage limits** of a standard $20 Claude subscription, making it the most cost-effective way to power tools like Cursor, Cline, and Claude Code.
+* [🚀 Generative Engines](#-generative-engines)
+* [🧠 Models](#-models)
 
 ---
 
@@ -29,5 +24,17 @@
 
 * **[Google Antigravity IDE](https://antigravity.google)** — An agent-first development platform built on VS Code. It moves beyond autocomplete into "Mission Control," allowing you to orchestrate autonomous agents that plan, code, and verify tasks across your editor and browser.
 * **[Visual Studio Code](https://code.visualstudio.com/)** — The extensible foundation of the modern dev stack. Its massive ecosystem of extensions and AI forks makes it the essential canvas for vibe coding.
+
+---
+
+## 🚀 Generative Engines
+
+* **[Z.ai Chat](https://z.ai/)** — A powerful, **completely free** browser-based agent. It acts as a universal creation engine—simply prompt it to build full-stack web apps, responsive websites, professional slide decks, or deep research reports. It delivers "ready-to-use" files rather than just text responses.
+
+---
+
+## 🧠 Models
+
+* **[GLM Coding Plan (z.ai)](https://z.ai/subscribe)** — **The "Budget King" of coding plans.** For as little as **$3/month**, you get a high-performance GLM-5 model that rivals Claude 3.5/4.5 Sonnet. It offers roughly **3x the usage limits** of a standard $20 Claude subscription, making it the most cost-effective way to power tools like Cursor, Cline, and Claude Code.
 
 ---
