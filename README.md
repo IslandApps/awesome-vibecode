@@ -14,6 +14,7 @@
 * [🏠 Infrastructure](#-infrastructure)
 * [💻 Local AI](#-local-ai)
 * [🧠 Models](#-models)
+* [🎨 UI & Visuals](#-ui--visuals)
 
 ---
 
@@ -62,7 +63,13 @@
 
 * **[Claude (Anthropic)](https://www.anthropic.com/claude)** — The standard for "human-like" reasoning. Features the **Claude 4.5/4.6** series, optimized for long-form architectural planning.
 * **[Gemini (Google)](https://ai.google.dev/)** — The multimodal king. **Gemini 3 Pro** features a massive 2M+ context window, allowing you to "vibe" with an entire codebase at once.
-* **[GLM Coding Plan (z.ai)](https://z.ai/subscribe)** — **The "Budget King" of coding plans.** For as little as **$3/month**, you get high-performance GLM-5 usage with roughly 3x the usage limits of standard subscriptions.
+* **[GLM Coding Plan (z.ai)](https://z.ai/subscribe)** — **The "Budget King" of coding plans.** For as little as **$3/month**, you get high-performance GLM-5 usage that rivals Claude Sonnet with roughly 3x the usage limits of standard subscriptions.
 * **[xAI (Grok)](https://x.ai/)** — Built for raw speed. **Grok 4.1 Fast** is priced aggressively ($0.20 per 1M tokens) for high-output projects and real-time data integration.
+
+---
+
+## 🎨 UI & Visuals
+
+* **[React Bits](https://reactbits.dev/)** — An open-source collection of 110+ animated, interactive, and highly creative React components (like *Hyperspeed* and *Ballpit*). Every component comes in 4 variants (JS/TS + CSS/Tailwind) and is designed to make UIs stand out. It’s highly "agent-friendly"—you can point tools like Cursor or Codex to it to instantly manifest complex animations.
 
 ---
