@@ -71,6 +71,7 @@
 > **The primary canvases where your ideas take shape.**
 
 * [![Antigravity IDE](https://img.shields.io/badge/Antigravity-Agent--First-blue)](https://antigravity.google) — Google's agent-first development platform built on VS Code.
+* [![Cursor](https://img.shields.io/badge/Cursor-AI--Native-007acc)](https://cursor.com/) — The pioneer of the AI-native editor movement. Features **Composer** for multi-file generation and **Tab** for predictive, context-aware code completions that go far beyond standard LSP.
 * [![Trae](https://img.shields.io/badge/Trae-Solo--Mode-9b59b6)](https://www.trae.ai/) — ByteDance’s vibe-native IDE fork of VS Code.
 * [![VS Code](https://img.shields.io/badge/VS%20Code-Standard-007acc)](https://code.visualstudio.com/) — The extensible foundation of the modern dev stack.
 * [![VSCodium](https://img.shields.io/badge/VSCodium-Private-brightgreen)](https://vscodium.com/) — The telemetry-free, community-driven binary distribution of VS Code.
@@ -81,11 +82,12 @@
 > **Force-multipliers and agents that live inside your IDE.**
 
 * [![Augment Code](https://img.shields.io/badge/Augment-Context-blue)](https://www.augmentcode.com/) — AI coding assistant built for massive codebases.
-* [![Awesome Screenshot](https://img.shields.io/badge/Awesome-Recorder-ff6b6b)](https://www.awesomescreenshot.com/) — Capture full-page scrolls to show your agent exactly what is broken.
+* [![Awesome Screenshot](https://img.shields.io/badge/Awesome-Recorder-ff6b6b)](https://www.awesomescreenshot.com/) — Capture full-page web app screenshots to show your agent exactly what is broken.
 * [![Cline](https://img.shields.io/badge/Cline-Agent-green)](https://cline.bot/) — The most adopted open-source coding agent extension for VS Code.
 * [![Codex](https://img.shields.io/badge/Codex-Orchestrator-black)](https://openai.com/codex) — OpenAI's standalone "command center" for multi-agent orchestration.
 * [![ESLint](https://img.shields.io/badge/ESLint-Lint-4b32c3)](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) — Essential guardrail to catch agent hallucinations.
 * [![GitHub Copilot](https://img.shields.io/badge/Copilot-Free%20Tier-white)](https://github.com/features/copilot) — Features Agentic Memory and Workspace for planning.
+* [![Kilo Code](https://img.shields.io/badge/Kilo%20Code-Local%20Agent-6b4fbb)](https://kilocode.com/) — A high-speed, agentic extension designed for local-first performance.
 * [![Prettier](https://img.shields.io/badge/Prettier-Format-f7b93e)](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) — An opinionated code formatter for vibe-consistent projects.
 * [![Roo Code](https://img.shields.io/badge/RooCode-Custom-red)](https://github.com/RooCode/RooCode) — High-speed fork of Cline designed for maximum flexibility.
 * [![Tailwind CSS](https://img.shields.io/badge/Tailwind-IntelliSense-38bdf8)](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) — Official extension for rapid UI manifestation.
@@ -132,8 +134,8 @@
 * [![Gemini](https://img.shields.io/badge/Gemini-2M--Context-4285f4)](https://ai.google.dev/) — Multimodal king with a massive context window.
 * [![GLM](https://img.shields.io/badge/GLM-Budget-blue)](https://z.ai/subscribe) — High-performance usage for only $3/month.
 * [![Kimi](https://img.shields.io/badge/Kimi-Visual-teal)](https://www.kimi.com/) — Specialist for Agent Swarm and visual debugging.
-* [![Qwen](https://img.shields.io/badge/Qwen-Open--Weights-orange)](https://github.com/QwenLM/Qwen) — The global leader in open-weights reasoning. Qwen2.5/Qwen3-Coder models often outperform proprietary giants in coding benchmarks while remaining fully steerable for local agents.
-* [![xAI](https://img.shields.io/badge/xAI-Speed-white)](https://x.ai/) — Built for raw speed and aggressive pricing ($0.20 per 1M tokens).
+* [![Qwen](https://img.shields.io/badge/Qwen-Open--Weights-orange)](https://github.com/QwenLM/Qwen) — The global leader in open-weights reasoning.
+* [![xAI](https://img.shields.io/badge/xAI-Speed-white)](https://x.ai/) — Built for raw speed and aggressive pricing.
 
 ---
 
